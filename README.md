@@ -1,36 +1,37 @@
+# Important
 
+Issues of this repository are tracked on https://github.com/aspnetboilerplate/aspnetboilerplate. Please create your issues on https://github.com/aspnetboilerplate/aspnetboilerplate/issues.
 
-You can use the [editor on GitHub](https://github.com/Subashguptaz/tmclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a template to create **ASP.NET Core MVC / Angular** based startup projects for [ASP.NET Boilerplate](https://aspnetboilerplate.com/Pages/Documents). It has 2 different versions:
 
-### Markdown
+1. [ASP.NET Core MVC & jQuery](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core) (server rendered multi-page application).
+2. [ASP.NET Core & Angular](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular) (single page application).
+ 
+User Interface is based on [BSB Admin theme](https://github.com/gurayyarar/AdminBSBMaterialDesign).
+ 
+# Download
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create & download your project from https://aspnetboilerplate.com/Templates
 
-```markdown
-Syntax highlighted code block
+# Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+#### Sample Dashboard Page
+![](_screenshots/module-zero-core-template-ui-home.png)
 
-- Bulleted
-- List
+#### User Creation Modal
+![](_screenshots/module-zero-core-template-ui-user-create-modal.png)
 
-1. Numbered
-2. List
+#### Login Page
 
-**Bold** and _Italic_ and `Code` text
+![](_screenshots/module-zero-core-template-ui-login.png)
 
-[Link](url) and ![Image](src)
-```
+# Documentation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [ASP.NET Core MVC & jQuery version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core)
+* [ASP.NET Core & Angular  version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular)
 
-### Jekyll Themes
+# License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subashguptaz/tmclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or 
-Having trouble with Pages? Check out our [TM library](https://subashguptaz.github.io/tmclub/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[MIT](LICENSE).
